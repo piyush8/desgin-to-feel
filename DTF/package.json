@@ -1,4 +1,11 @@
-"scripts": {
-    "start": "node index.js",
-    "build": "webpack"
-  }
+{
+  "name": "dtf",
+  "version": "1.0.0",
+  "description": "Arch",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
